@@ -1,31 +1,30 @@
-
 <h1 align="center">
   👾 Vinicius.dev | Frontend Developer 🚀
 </h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=500&lines=Loading+Interface...;Frontend+Developer;Building+Experiences;Leveling+Up+Everyday+⚡">
-</p>
+
 
 ---
 
 ## ⚡ SYSTEM STATUS
 
 🧠 Status: Online  
-🎯 Missão: Criar experiências web incríveis  
+🎯 Missão: Desenvolver interfaces modernas e eficientes  
 🚀 Nível: Frontend Developer  
-💻 Especialidade: Interfaces modernas e responsivas  
+💻 Especialidade: Interfaces responsivas e interativas  
 
 ---
 
 ## 🧬 SOBRE MIM
 
-> Desenvolvedor frontend apaixonado por criar interfaces modernas, interativas e com alto impacto visual.  
-> Sempre buscando evoluir minhas habilidades e transformar ideias em experiências digitais únicas.  
+Sou desenvolvedor Frontend com foco na criação de interfaces modernas, responsivas e orientadas à experiência do usuário.
 
-🎮 Estilo: Minimalista + Animado  
-⚡ Foco: Performance, UI/UX e Responsividade  
-🔥 Objetivo: Me tornar um desenvolvedor de alto nível  
+Tenho experiência no desenvolvimento de aplicações web utilizando HTML, CSS e JavaScript, sempre aplicando boas práticas de código, organização e performance. Busco criar soluções que unam estética, usabilidade e eficiência.
+
+Estou em constante evolução, aprimorando minhas habilidades técnicas e explorando novas tecnologias para entregar projetos cada vez mais completos e profissionais.
+
+💡 Interesse em: UI/UX, animações web e interfaces interativas  
+🚀 Objetivo: atuar profissionalmente como desenvolvedor frontend e contribuir em projetos de alto nível  
 
 ---
 
