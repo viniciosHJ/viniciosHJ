@@ -1,5 +1,5 @@
 <h1 align="center">
-  👾 Vinicius.dev | Frontend Developer 🚀
+  👾 Vinicios.dev | Frontend Developer 🚀
 </h1>
 
 
